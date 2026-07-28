@@ -1,4 +1,4 @@
-fetch("http://edu.arang.kr:9103/board/0")
+fetch("http://edu.arang.kr:9105/changepw")
   .then(r => r.text())
   .then(body => {
     fetch(
